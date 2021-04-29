@@ -36,6 +36,8 @@ fileToClan = {
   "Tachikaze.txt": "Tachikaze",
   "The Mask Collection.txt": "The Mask Collection",
   "Touken Ranbu.txt": "Touken Ranbu"
+  "Brandt Gate.txt": "Brandt Gate",
+  "Dark States.txt": "Dark States",
 }
 # Easier to just flip the dictionary then make it two way
 clanToFile = dict(map(reversed, fileToClan.items()))
